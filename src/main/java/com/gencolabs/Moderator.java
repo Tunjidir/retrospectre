@@ -10,7 +10,7 @@ import java.util.stream.Collectors;
 import javax.enterprise.context.ApplicationScoped;
 import javax.ws.rs.NotFoundException;
 
-import com.gencolabs.entity.RetroRoom;
+import com.gencolabs.moderator.entity.RetroRoom;
 import com.gencolabs.users.entity.User;
 
 /**
