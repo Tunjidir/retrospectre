@@ -1,4 +1,4 @@
-package com.gencolabs.entity;
+package com.gencolabs.moderator.entity;
 
 import java.util.ArrayList;
 import java.util.LinkedHashMap;
